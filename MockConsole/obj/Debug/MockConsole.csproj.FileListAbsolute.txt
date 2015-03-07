@@ -1,0 +1,5 @@
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\MockConsole\bin\Debug\MockConsole.exe
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\MockConsole\bin\Debug\MockConsole.pdb
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\MockConsole\obj\Debug\MockConsole.csprojResolveAssemblyReference.cache
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\MockConsole\obj\Debug\MockConsole.exe
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\MockConsole\obj\Debug\MockConsole.pdb

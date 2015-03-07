@@ -1,0 +1,12 @@
+c:\users\castorg\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\castorg\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\castorg\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\castorg\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\castorg\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\MockConsole.exe
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\MockConsole.pdb
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Ploeh.AutoFixture.AutoRhinoMock.dll
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Rhino.Mocks.dll
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\Castorg\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Ploeh.AutoFixture.AutoRhinoMock.xml
